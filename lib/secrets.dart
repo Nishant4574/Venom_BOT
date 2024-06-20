@@ -1,0 +1,1 @@
+const OpenAIkey ="AIzaSyDxHqVx9RSCUISYv5ZXRldYqBXhZVrpNeg";
